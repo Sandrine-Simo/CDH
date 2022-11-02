@@ -1,0 +1,587 @@
+<head>
+    <meta charset="utf-8">
+    <title>CDH-AN</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free Website Template" name="keywords">
+    <meta content="Free Website Template" name="description">
+
+    <!-- Favicon -->
+    <link href="img/logo.jpg" rel="icon">
+
+      <!-- Google Font -->
+      <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+      <!-- CSS Libraries -->
+      <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+      <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+      <link href="lib/animate/animate.min.css" rel="stylesheet">
+      <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+      <!-- Template Stylesheet -->
+      <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/fonts.css">
+    <style>
+        .box-img-animate {
+text-align: center;
+}
+
+.box-img-animate .box-img-animate-item {
+display: inline-block;
+}
+
+.box-img-animate .box-img-animate-item img {
+border-radius: 6px;
+box-shadow: 8px 14px 40px rgba(0, 0, 0, 0.25);
+}
+
+@media (max-width: 1199.98px) {
+.box-img-animate .box-img-animate-item + .box-img-animate-item {
+    margin-top: 20px;
+}
+.box-img-animate .box-img-animate-item {
+    padding: 0 15px;
+}
+}
+
+    </style>
+</head>
+
+<body>
+    <!-- Top Bar Start -->
+    <div class="top-bar d-none d-md-block" style="background-color:rgba(4, 50, 118, 0.884)">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="top-bar-left">
+                        <div class="text">
+                            <i class="fa fa-phone-alt"></i>
+                            <p>+1(917)669-8635</p>
+                        </div>
+                        <div class="text">
+                            <i class="fa fa-envelope"></i>
+                            <p>infos@cdh-hrc.com</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 pt-2"> 
+                    <h5 style="font-weight:600;  color:white; ">CENTRE DES DROITS HUMAINS EN AMÉRIQUE DU NORD</h5> 
+                      
+                </div>
+                <div class="col-md-2">
+                    <div class="top-bar-right">
+                        <div class="social">
+                            <a href=""><i class="fab fa-twitter"></i></a>
+                            <a href=""><i class="fab fa-facebook-f"></i></a>
+                            <a href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Top Bar End -->
+
+    <!-- Nav Bar Start -->
+    <div class="navbar navbar-expand-lg bg-dark navbar-dark" style="background-color:rgba(0, 102, 255, 0.884) !important">
+        <div class="container-fluid">
+            <a href="index.html" class="navbar-brand"><img src="img/logo.jpg" alt="" style="border-radius:50%"> CDH</a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
+                <div class="navbar-nav ml-auto">
+                    <a href="index.html" class="nav-item nav-link ">Accueil</a>
+                    <a href="about.html" class="nav-item nav-link active">A propos</a>
+                    <a href="activity.html" class="nav-item nav-link">Activités</a>
+                    <a href="article.html" class="nav-item nav-link">Articles</a>
+                    <a href="media.html" class="nav-item nav-link">Médias</a>
+                    <a href="volunteer.html" class="nav-item nav-link">Volontaires</a>
+                    <a href="donate.html" class="nav-item nav-link">Faire un don</a>
+                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="../en/about.html" class="nav-item nav-link"><img src="img/flag_en.png" alt="" width="30px" height="20px"></a>
+                                       
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Nav Bar End -->
+
+        
+        
+        
+        <!-- Page Header Start -->
+        <div class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>A Propos</h2>
+                    </div>
+                    <div class="col-12">
+                        <a href="">Accueil</a>
+                        <a href="">A Propos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Page Header End -->
+        
+
+        <!-- About Start -->
+        <!-- Mission et vision end -->
+
+        
+  
+   <section class="section section-xl">
+    <div class="container-fluid">
+      <div class="row row-50 justify-content-lg-between align-items-lg-center ">
+        <div class="col-lg-6">
+          <div class="box-img-animate" style="background-color:rgba(0, 102, 255, 0.884)">
+            <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="img/3.JPG" alt="" width="217px" height="153px"></div>
+            <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 150, &quot;x&quot;: 0,  &quot;smoothness&quot;: 50 }"><img src="img/4.JPG" alt="" width="271px" height="191px"></div>
+            <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:70, &quot;x&quot;: -250,  &quot;smoothness&quot;: 50 }"><img src="img/8.JPG" alt="" width="271px" height="191px"></div>
+            
+            <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="img/Capture.JPG" alt="" width="179px" height="191px"></div>
+            <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="img/7.JPG" alt="" width="217px" height="153px"></div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-xl-5 ">
+          <div class="section-header">
+            <h2>Qui sommes nous? </h2>
+            <div class="service-text">
+            <p style="color:rgba(0, 0, 0, 0.754); font-size: 16px ">Le CDH travaille sur plusieurs thèmes stratégiques, notamment la défense des droits humains, la protection des défenseurs des droits humains, de l’application et de l’efficacité des lois sur les droits humains.</p>
+        </div>
+            <div class="row row-50">
+              <div class="col-md-6 col-lg-12">
+                <div class="box-icon-modern">
+                  <div class="box-icon-inner decorate-triangle"><span class="icon-xl linearicons-group-work icon-primary" style="font-size: 100px!important;
+                    line-height: 79px;"></span></div>
+                  <div class="box-icon-caption">
+                    <h4 class="mt-4"><a href="#">Organisation démocratique</a></h4>
+                    <p style="color:rgba(0, 0, 0, 0.754); font-size: 16px ">Nous sommes une organisation démocratique, indépendante de toute autorité religieuse, politique ou partisane. Son indépendance et sa transparence sont les garantes de sa crédibilité.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-12">
+                <div class="box-icon-modern">
+                  <div class="box-icon-inner decorate-circle"><span class="icon-xl linearicons-users icon-primary"></span></div>
+                  <div class="box-icon-caption">
+                    <h4 class="mt-4"><a href="#">Organisation non gouvernementale</a></h4>
+                    <p style="color:rgba(0, 0, 0, 0.754); font-size: 16px ">CDH est une organisation internationale non gouvernementale et à but non lucratif qui défend tous les droits humains : civiles, politiques, économiques, sociaux, culturels et linguistiques tels que énoncés dans la déclaration universelle des droits humains.</p>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!-- About End -->
+        
+<!-- Testimonial Start -->
+<div class="testimonial">
+    <div class="container-fluid">
+        <div class="owl-carousel testimonials-carousel">
+            <div class="testimonial-item ml-1" style=" box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.15);border-radius: 10px;">
+                <div class="testimonial-profile" style="background-color:rgba(216, 243, 251, 0.747)!important;">
+                    <div class="box-icon-inner decorate-triangle"><span class="icon-xl linearicons-group-work icon-primary"></span></div>
+                    <div class="testimonial-name">
+                        <h3>Organisation engagée</h3>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="testimonial-text">
+                    <p>
+                        Le CDH-AN est pleinement engagé à promouvoir les droits et les libertés en coopérant avec les associations et les organisations de défense des droits humains et en soutenant les organisations de la société civile dont les activités visent à soutenir les acteurs et les militants et à promouvoir leur capacité à travailler et à s’engager dans leurs domaines d’emploi respectifs.
+                        <br><br>
+                    </p>
+                </div>
+            </div>
+            <div class="testimonial-item" style=" box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.15);border-radius: 10px;">
+                <div class="testimonial-profile" style="background-color:rgba(216, 243, 251, 0.747)!important;">
+                    <div class="box-icon-inner decorate-square"><span class="icon-xl linearicons-users icon-primary"></span></div>
+                    <div class="testimonial-name">
+                        <h3>Organisation citoyenne</h3>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="testimonial-text">
+                    <p>
+                        Le CDH-AN promeut une culture des droits de l’homme et de l’égalité des genres, défend les droits des femmes vulnerables et leur inclusion sociale, les droits des minorités, rejette toutes les formes de discrimination raciale, et protège l’environnement.Le CDH-AN contribue à activer la solidarité et la coopération pour protéger les défenseurs des droits de l’homme conformément à la Déclaration universelle des droits humains.<br><br>
+                    </p>
+                </div>
+            </div>
+            <div class="testimonial-item"style=" box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.15);border-radius: 10px;" >
+                <div class="testimonial-profile" style="background-color:rgba(216, 243, 251, 0.747)!important;">
+                    <div class="box-icon-inner decorate-circle"><span class="icon-xl linearicons-users-plus icon-primary"></span></div>
+                    <div class="testimonial-name">
+                        <h3>Organisation humanitaire</h3>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="testimonial-text">
+                    <p>
+                        Le CDH-AN soutient les acteurs des droits humains et les organisations de la société civile au Maroc, au Maghreb, dans les pays arabes et au niveau international, soutient la construction d’un état de droit, le respect des droits humains, l’indépendance des institutions et la garantie des libertés collectives et individuelles telles que reconnues internationalement, y compris les droits des femmes et des minorités.
+                        <br><br>
+                    </p>
+                </div>
+            </div>
+            <div class="testimonial-item" style=" box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.15);border-radius: 10px;">
+                <div class="testimonial-profile" style="background-color:rgba(216, 243, 251, 0.747)!important;">
+                    <div class="box-icon-inner decorate-triangle"><span class="icon-xl linearicons-scale icon-primary"></span></div>
+                    <div class="testimonial-name">
+                        <h3>Organisation de défense des droits</h3>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="testimonial-text">
+                    <p>
+                        Le CDH-AN travaille aux niveaux international, régional et national en coordination avec les organisations de défense des droits humains et les organisations partenaires pour lutter contre les violations des droits humains et de renforcer la lutte pour construire, établir et consolider les valeurs de la démocratie.
+                        <br><br><br><br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial End -->    
+
+       <!-- Mission et vision start -->
+
+    <section id="featured" class="featured pt-5 pb-5" style="background-color: rgba(216, 243, 251, 0.747);">
+
+        <div class="container">
+
+
+   
+        <div class="section-header text-center">
+            <h2> Mission, Objectifs et Principes </h2>
+        </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="icon-box">
+            <div class="col-6 mb-3" width="" height="150px"> <img src="img/mission2.JPG" alt=""width="100%" height="100px"/></div>
+            <h3><a href="">Notre Mission</a></h3>
+            <p>Œuvrer à la défense et à la protection des droits humains sans distinctions de genre, d origine ethnique, de race ou de couleur. </p>
+          </div>
+        </div>
+        <div class="col-lg-4 mt-4 mt-lg-0">
+          <div class="icon-box">
+            <div class="col-6 mb-3" width="" height="150px"> <img src="img/vision.JPG" alt=""width="100%" height="100px"/></div>
+            <h3><a href="#">Nos Objectifs</a></h3>
+            <ul>
+                <li>Miser sur les défenseurs des droits humains</li>
+                <li>Former sur les valeurs des droits de la personne</li>
+                <li>Libérer les détenus d’opinion et les défenseurs des droits humains</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4 mt-4 mt-lg-0">
+          <div class="icon-box">
+            <div class="col-6 mb-3" width="" height="150px"> <img src="img/valeur.JPG" alt=""width="100%" height="100px"/></div>
+            <h3><a href="#">Nos principes et valeurs</a></h3>
+            <ul>
+                <li>Démocratie</li>
+                <li>Intégrité</li>
+                <li>Responsabilité</li>
+                <li>Volontariat</li> 
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+ 
+  <!-- Mission et vision end -->
+  
+  
+        <!-- Team Start -->
+        <div class="team">
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Notre Equipe</p>
+                    <h2>Des personnes formidables travaillent derrière le CDH</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/team-1.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-text">
+                                <h2>Mr Abdel </h2>
+                                <p>Foundateur </p>
+                                <div class="team-social">
+                                    <a href=""><i class="fab fa-twitter"></i></a>
+                                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/team-1.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-text">
+                                <h2>Mr Abdel </h2>
+                                <p>Foundateur </p>
+                                <div class="team-social">
+                                    <a href=""><i class="fab fa-twitter"></i></a>
+                                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/team-1.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-text">
+                                <h2>Mr Abdel </h2>
+                                <p>Foundateur </p>
+                                <div class="team-social">
+                                    <a href=""><i class="fab fa-twitter"></i></a>
+                                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="img/team-1.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-text">
+                                <h2>Mr Abdel </h2>
+                                <p>Foundateur </p>
+                                <div class="team-social">
+                                    <a href=""><i class="fab fa-twitter"></i></a>
+                                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                    <a href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Team End -->
+        
+        <!-- Volunteer Start -->
+        <div class="volunteer" data-parallax="scroll" data-image-src="img/volunteer-g17c220704_1280.jpg">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5">
+                        <div class="volunteer-form">
+                            <form>
+                                <div class="control-group">
+                                    <input type="text" class="form-control" placeholder="Nom" required="required" />
+                                </div>
+                                <div class="control-group">
+                                    <input type="email" class="form-control" placeholder="Email" required="required" />
+                                </div>
+                                <div class="control-group">
+                                    <textarea class="form-control" placeholder="Pourquoi veux tu être bénévole ?" required="required"></textarea>
+                                </div>
+                                <div>
+                                    <button class="btn btn-custom" type="submit">Devenir Bénévole</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="volunteer-content">
+                            <div class="section-header">
+                                <p>Devenir bénévole</p>
+                                <h2>Faisons une différence dans la vie des autres</h2>
+                            </div>
+                            <div class="volunteer-text">
+                                <p>
+                                    Le but est d'aider le plus de personnes possible, et en priorité les prisoniers politiques. En tant que bénévole, vous aiderez le personnel pour les tâches élémentaires.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Volunteer End -->
+        
+        <!-- Testimonial Start -->
+        <!--<div class="testimonial">
+            
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Testimonial</p>
+                    <h2>What people are talking about our charity activities</h2>
+                </div>
+                <div class="owl-carousel testimonials-carousel">
+                    <div class="testimonial-item">
+                        <div class="testimonial-profile">
+                            <img src="img/testimonial-1.jpg" alt="Image">
+                            <div class="testimonial-name">
+                                <h3>Person Name</h3>
+                                <p>Profession</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor, auctor id gravid vivera quis
+                            </p>
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-profile">
+                            <img src="img/testimonial-2.jpg" alt="Image">
+                            <div class="testimonial-name">
+                                <h3>Person Name</h3>
+                                <p>Profession</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor, auctor id gravid vivera quis
+                            </p>
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-profile">
+                            <img src="img/testimonial-3.jpg" alt="Image">
+                            <div class="testimonial-name">
+                                <h3>Person Name</h3>
+                                <p>Profession</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor, auctor id gravid vivera quis
+                            </p>
+                        </div>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-profile">
+                            <img src="img/testimonial-4.jpg" alt="Image">
+                            <div class="testimonial-name">
+                                <h3>Person Name</h3>
+                                <p>Profession</p>
+                            </div>
+                        </div>
+                        <div class="testimonial-text">
+                            <p>
+                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor, auctor id gravid vivera quis
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        <!-- Testimonial End -->
+
+        
+        <!-- Footer Start -->
+        <div class="footer" style="background-color:rgba(0, 102, 255, 0.884) !important">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-contact">
+                            <h2>Nous Contacter</h2>
+                            <p><i class="fa fa-globe"></i>www.cdh-hrc.com</p>
+                            <p><i class="fa fa-phone-alt"></i>+1 (917) 669-8635</p>
+                            <p><i class="fa fa-envelope"></i>infos@cdh-hrc.com</p>
+                            <div class="footer-social">
+                                <a class="btn btn-custom" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-custom" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-custom" href=""><i class="fab fa-youtube"></i></a>
+                                <a class="btn btn-custom" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-custom" href=""><i class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-link">
+                            <h2>Nos Liens</h2>
+                            <a href="">A propos</a>
+                            <a href="">Missions</a>
+                            <a href="">Activités</a>
+                            <a href="">Nos Médias</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-link">
+                            <h2>Nos Partenaires</h2>
+                            <a href="#">AMDH</a>
+                            <a href="#">ASDHOM</a>
+                            <a href="#">FREE INITIATIVE</a>
+                            <a href="#">CDH-AN</a>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-newsletter">
+                            <h2>Newsletter</h2>
+                            <form>
+                                <input class="form-control" placeholder="Adresse email">
+                                <button class="btn btn-custom">Envoyez</button>
+                                <label>Vous receverez des notifications sur nos activités</label>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container ">
+                <hr>
+                <div class=" row" > 
+                    <div class="col-md-6 row" style="display:flex; justify-content:left !important">
+                        <p class="col-md-2" style="width:50px; height:50px"><img src="img/logo.jpg" alt="" width="100%"; height="100%" style="border-radius:50%"></p>
+                        <H1 class="col-md-10"><PRE style="color:white; font-weight:800px;font-size:1.2em">CDH</PRE></H1>
+                    </div>
+                    <div class="col-md-6">
+                        <p>Ensemble, défendons les droits humains</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer End -->
+        
+        <!-- Back to top button -->
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+        
+        <!-- Pre Loader -->
+        <div id="loader" class="show">
+            <div class="loader"></div>
+        </div>
+
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/counterup/counterup.min.js"></script>
+        <script src="lib/parallax/parallax.min.js"></script>
+        <!-- Contact Javascript File -->
+        <script src="mail/jqBootstrapValidation.min.js"></script>
+        <script src="mail/contact.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+        <script src="js/core.min.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>
